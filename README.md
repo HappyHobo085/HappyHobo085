@@ -1,7 +1,7 @@
 # Hi, I'm Louis 👋
 
 **Game Developer | Unity & C# | Gameplay Systems & Automated Testing**
-Final-year BSc Computer Science student (Akademia) in Bloemfontein, South Africa.
+BSc Computer Science (Software Development) graduate from Akademia, based in Bloemfontein, South Africa.
 
 I build gameplay systems in Unity 6, back them with automated tests, and debug them through repeated playtesting.
 
@@ -15,7 +15,7 @@ I build gameplay systems in Unity 6, back them with automated tests, and debug t
 
 - **[Aegis](https://github.com/HappyHobo085/Aegis)** is a privacy-first, cross-platform browser built on Rust, Tauri 2 and React 19, with engine-level ad/tracker blocking and E2E-encrypted sync.
 - **MOON** is a campus access and safety system built by a 4-person team. I was the backend developer and built the FastAPI admin API, role-based access control (RBAC), security hardening and reporting.
-- **Cloud Nexus internship (2026)** is where I built an information extraction pipeline and an AI knowledge assistant with Claude Code.
+- **Cloud Nexus internship (June 2026)** is where I built an information extraction pipeline and an AI knowledge assistant with Claude Code.
 
 ## 🧰 Tech
 
@@ -25,4 +25,4 @@ I build gameplay systems in Unity 6, back them with automated tests, and debug t
 
 - Email: louisoosthuizen613@gmail.com
 - LinkedIn: [louis-oosthuizen](https://www.linkedin.com/in/louis-oosthuizen-345aba349/)
-- Open to game-development work and collaborations.
+- Open to game-development roles, contract work and collaborations.
