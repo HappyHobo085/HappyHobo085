@@ -7,7 +7,7 @@ I build gameplay systems in Unity 6, back them with automated tests, and debug t
 
 ## 🎮 Game projects
 
-- **Chaos Keep** (Unity 6, C#, URP) is an action tower-defense roguelite set inside a procedurally generated maze whose walls keep moving. It has third/first-person combat (melee, dash, Nova, wall-running), towers that ride the moving walls, Climber raids, and a roguelite combo draft. About 15k lines of C# and 129 EditMode/PlayMode tests.
+- **[Chaos Keep](https://happyhobo085.itch.io/chaos-keep)** (Unity 6, C#, URP), playable free on itch.io (Linux). An action tower-defense roguelite set inside a procedurally generated maze whose walls keep moving. It has third/first-person combat (melee, dash, Nova, wall-running), towers that ride the moving walls, Climber raids, and a roguelite combo draft. About 15k lines of C# and 129 EditMode/PlayMode tests.
 - **Cardinal** (Unity 6, C#) is an automated game-balance SDK. A deterministic wave simulation, scripted bots with different skill levels, and a headless Linux batch mode run thousands of simulated plays to keep a game challenging but fair.
 - **[Real-time shader scenes](https://github.com/HappyHobo085/Wallpapers)** (GLSL) are four animated KDE Plasma 6 wallpapers, including *Hyperlane*, a procedural sci-fi corridor flight that renders a frame in about 0.3 ms at 1080p.
 
@@ -25,4 +25,5 @@ I build gameplay systems in Unity 6, back them with automated tests, and debug t
 
 - Email: louisoosthuizen613@gmail.com
 - LinkedIn: [louis-oosthuizen](https://www.linkedin.com/in/louis-oosthuizen-345aba349/)
+- itch.io: [happyhobo085.itch.io](https://happyhobo085.itch.io)
 - Open to game-development roles, contract work and collaborations.
